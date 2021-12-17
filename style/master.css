@@ -448,7 +448,7 @@ header::before {
   border-color: #a836f4;
 }
 .featuresitems h2 {
-  font-size: 25px;
+  font-size: 22px;
   position: relative;
 }
 .featuresitems h2::after {
@@ -541,7 +541,7 @@ header::before {
   padding: 20px;
   line-height: 1.5;
   opacity: 90%;
-  font-size: 20px;
+  font-size: 15px;
 }
 .featuresitems button {
   background-color: white;
